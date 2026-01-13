@@ -28,4 +28,4 @@ O projeto aborda o ciclo de vida de um projeto de dados, desde o carregamento e 
 ## 📋 Como Executar
 1. Clone o repositório:
    ```bash
-   git clone [https://https://github.com/KellyVasconcellos/analise_uber_stock.git)
+   git clone [https://github.com/KellyVasconcellos/analise_uber_stock.git]
